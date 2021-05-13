@@ -731,7 +731,7 @@ hr{
 /*		margin-right: 72%;*/
 	}
 	.main-title{
-		margin-top:15px;
+		margin-top:30px;
 	}
 	.block-body-tag{
 		font-size: 12px;
@@ -741,6 +741,7 @@ hr{
 	}
 	.block-text{
 		padding-left: 33%;
+		padding-top:20px;
 	}
 	.block-tag{
 		font-size: 12px;
@@ -749,7 +750,7 @@ hr{
 		font-size: 15px;
 	}
 	.block-link-cont{
-		margin-left: 18%;
+		margin-left: 22%;
 	}
 }
 
